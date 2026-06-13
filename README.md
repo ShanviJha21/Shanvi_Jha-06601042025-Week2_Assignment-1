@@ -1,1 +1,5 @@
 # Shanvi_Jha-06601042025-Week2_Assignment-1
+
+NAME: Shanvi Jha
+ENROLLMENT NO. : 06601042025
+COLLEGE: IGDTUW
